@@ -1,0 +1,46 @@
+### 2nd Year  Difficulty:easy-medium
+
+###
+ QUESTION --->> Adithya is very fond of patterns, but while creating a pattern he got stuck.
+ So, given a positive integer n (1<=n<=100), help Adithya to print the below pattern.
+ Example:
+ input: 5
+
+ Output:
+
+         1
+       1 2
+     1 2 3
+   1 2 3 4
+ 1 2 3 4 5
+
+Input Format:There is only one line of input,i.e, the value of n.
+
+Output: Required pattern 
+
+Constraint: 1<=n<=
+
+Test Cases:
+
+1: Input: 6
+   Output:
+           1
+         1 2
+       1 2 3
+     1 2 3 4
+   1 2 3 4 5
+ 1 2 3 4 5 6
+
+2: Input: 9
+   Output:
+                 1
+               1 2
+             1 2 3
+           1 2 3 4
+         1 2 3 4 5
+       1 2 3 4 5 6
+     1 2 3 4 5 6 7 
+   1 2 3 4 5 6 7 8
+ 1 2 3 4 5 6 7 8 9
+
+ ...so on
