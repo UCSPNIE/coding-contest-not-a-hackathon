@@ -1,0 +1,13 @@
+##3rd years
+##difficulty level -> medium
+
+Pranav is sitting in a function where a talk is being delivered and he is not at all enjoying it. He plans a game to pass time. In the talk, he writes down 'N' 
+number of words. Some words may repeat. He tries to find the number of occurences of each word. Since he has no better work, He also considers words without any meaning. 
+
+Input Format:
+	The first line contains the integer N.
+	The next N lines each contain a word. 
+Output Format:
+	Output 2 lines.
+	On the first line, output the number of distinct words from the input.
+	On the second line, output the number of occurrences for each distinct word according to their appearance in the input.
