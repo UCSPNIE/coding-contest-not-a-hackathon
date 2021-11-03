@@ -1,4 +1,4 @@
-### 2nd year , Difficulty-level: Easy , Prerequisites : basic Programming and logical thinking
+### 3rd year , Difficulty-level: Easy, Prerequisites : basic understanding of set or map
 
 // problem statement :-
 
