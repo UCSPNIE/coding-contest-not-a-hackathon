@@ -1,0 +1,10 @@
+Let's call a prime number p special if there exists an integer x for which (x^2-2) is divisible by p.
+Find the Nth special prime.
+
+    [execution time limit] 4 seconds (py3)
+
+    [input] integer N
+
+    [output] integer
+
+    Nth special prime
