@@ -4,9 +4,9 @@
 
 Arvind and suchi were solving the classical FizzBuzz Problem where in the given range of number from 1 to n if the
 number is divisible by 3 print Fizz , if the number is divisible by 5 print Buzz and if the number is divisible by 
-both 3 and 5 then print FizzBuzz. Now shree came in the room and to test their knowledge of programming he  asked them do a modified FizzBuzz problem instead.
-In this modified FizzBuzz Problem if any digit of the number is 3 print Fizz and  if any digit is 5 then print Buzz.
-Help suchi and arvind writing a program for this problem.
+both 3 and 5 then print FizzBuzz and if none of them then print the number itself. Now shree came in the room and to test their knowledge of programming he  asked them do a modified FizzBuzz problem instead.
+In this modified FizzBuzz Problem if any digit of the number is 3 print Fizz and  if any digit is 5 then print Buzz and if none of them then print the number itself.
+Help suchi and arvind write a program for this problem.
 
 for example : n=15
 output:-
