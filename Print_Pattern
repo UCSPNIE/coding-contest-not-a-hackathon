@@ -2,7 +2,7 @@
 
 ###
  QUESTION --->> Adithya is very fond of patterns, but while creating a pattern he got stuck.
- So, given a positive integer n (1<=n<=100), help Adithya to print the below pattern.
+ So, given a positive integer n, help Adithya to print the below pattern.
  Example:
  input: 5
 
