@@ -1,0 +1,20 @@
+# 3rd year diff
+# Force them to use the DP method using matrices, medium? Easy for a few test-cases
+
+Given an input n, find the nth term of the Fibonacci sequence.
+
+Input:
+  4
+
+Output:
+  2
+
+Explanation:
+  Sequence: 0,1,1,2,3,5...
+  4th term is 2.
+
+
+Constraints:
+  0 < n < 1000000
+
+[Note]: Standard recursive solution may not work well enough for all test-cases. Keep constraints in mind.
