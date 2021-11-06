@@ -1,0 +1,15 @@
+You are given an array A of zeros and ones. With each operation you are allowed to remove consecutive equal 
+elements (you can remove just one element if there are no equal neighboring elements). How many operations will it take 
+to remove all of the elements from the given array?
+For example, the array [0, 1, 1, 1, 0] can be cleared in two steps:
+[0, 1, 1, 1, 0] -> [0, 0] -> [].
+
+    [execution time limit] 4 seconds (py3)
+
+    [input] array.integer A
+
+    array of 0s and 1s
+
+    [output] integer
+
+    minimum number of operations
