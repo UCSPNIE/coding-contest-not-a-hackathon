@@ -1,0 +1,61 @@
+# Proposed solution in python
+
+T = int(input())
+for i in range(T):
+    
+    count=0
+    l = list(input())
+    for j in range(len(l)-1):
+        if(l[j]=='<' and l[j+1]=='>'):
+            count+=1
+
+    print(count)
+    
+'''
+Sample input: 
+4
+><
+!><!
+><><
+!><><><!
+
+Sample output:
+0
+0
+1
+2
+
+Testcases
+input1:
+1
+!!!!
+output1:
+0
+input2:
+2
+!<>!
+<<<>!
+output1:
+1
+1
+input2:
+1
+<<<<<!
+output2:
+0
+input3:
+4
+!!!<>
+<><><>
+<!>!<!>
+<>>>><>><!
+output3:
+1
+4
+3
+2
+input4:
+>>>>>>>!
+output4:
+0
+'''
