@@ -1,4 +1,4 @@
-### 3rd year , Difficulty-level: Easy, Prerequisites : basic understanding of set or map
+### 2nd year , Difficulty-level: Medium
 
 // problem statement :-
 
@@ -36,3 +36,251 @@ Input format: Input contains a single integer n
 Ouput Format : In the range of 1 to n print fizz if number contains a digit 3 and print buzz if it contains a digit 5 and if none then print the number itself
   
   
+  
+// ------------------  TestCases---------------------:-
+
+TestCase 1:
+
+Input: 5
+Output: 
+1
+2
+FIZZ
+4
+BUZZ
+
+---------------------------------
+Testcase 2:
+
+Input : 20
+output : 
+1
+2
+FIZZ
+4
+BUZZ
+6
+7
+8
+9
+10
+11
+12
+FIZZ
+14
+BUZZ
+16
+17
+18
+19
+20
+------------------------------------------
+
+TestCase 3 :
+Input : 10
+Output :
+1
+2
+FIZZ
+4
+BUZZ
+6
+7
+8
+9
+10
+-----------------------------
+
+Testcase 4:
+
+Input : 25
+Output : 
+1
+2
+FIZZ
+4
+BUZZ
+6
+7
+8
+9
+10
+11
+12
+FIZZ
+14
+BUZZ
+16
+17
+18
+19
+20
+21
+22
+FIZZ
+24
+BUZZ
+--------------------------------
+
+TestCase 5:
+
+input : 35
+Output : 
+1
+2
+FIZZ
+4
+BUZZ
+6
+7
+8
+9
+10
+11
+12
+FIZZ
+14
+BUZZ
+16
+17
+18
+19
+20
+21
+22
+FIZZ
+24
+BUZZ
+26
+27
+28
+29
+FIZZ
+FIZZ
+FIZZ
+FIZZ
+FIZZ
+FIZZBUZZ
+-----------------------------------
+
+TestCase 6:
+
+input:  50
+output : 
+1
+2
+FIZZ
+4
+BUZZ
+6
+7
+8
+9
+10
+11
+12
+FIZZ
+14
+BUZZ
+16
+17
+18
+19
+20
+21
+22
+FIZZ
+24
+BUZZ
+26
+27
+28
+29
+FIZZ
+FIZZ
+FIZZ
+FIZZ
+FIZZ
+FIZZBUZZ
+FIZZ
+FIZZ
+FIZZ
+FIZZ
+40
+41
+42
+FIZZ
+44
+BUZZ
+46
+47
+48
+49
+BUZZ
+---------------------------
+
+TestCase 7:
+
+Input : 60
+output : 
+1
+2
+FIZZ
+4
+BUZZ
+6
+7
+8
+9
+10
+11
+12
+FIZZ
+14
+BUZZ
+16
+17
+18
+19
+20
+21
+22
+FIZZ
+24
+BUZZ
+26
+27
+28
+29
+FIZZ
+FIZZ
+FIZZ
+FIZZ
+FIZZ
+FIZZBUZZ
+FIZZ
+FIZZ
+FIZZ
+FIZZ
+40
+41
+42
+FIZZ
+44
+BUZZ
+46
+47
+48
+49
+BUZZ
+BUZZ
+BUZZ
+FIZZBUZZ
+BUZZ
+BUZZ
+BUZZ
+BUZZ
+BUZZ
+BUZZ
+60
+
