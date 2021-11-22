@@ -1,7 +1,7 @@
 ### 3rd year + , Difficulty:Easy 
 
 
-Aditya bhaiya has decided to try singing. He has 'x' one-minute songs, 'y' two-minute songs and 'z' three-minute songs. He wants to distribute all songs into two concerts such that every song should be included to exactly one concert.
+Adithya bhaiya has decided to try singing. He has 'x' one-minute songs, 'y' two-minute songs and 'z' three-minute songs. He wants to distribute all songs into two concerts such that every song should be included to exactly one concert.
 
 He wants to make the absolute difference of durations of the concerts as small as possible. The duration of the concert is the sum of durations of all songs in that concert.
 
